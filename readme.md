@@ -35,7 +35,7 @@ git clone https://github.com/SonderXiaoming/money_exchange_rate
 
 ## 彩蛋
 
-内置环奈币汇率
+内置环奈币汇率（我机器人是环奈）
 
 
 
