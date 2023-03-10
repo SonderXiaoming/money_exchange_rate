@@ -1,4 +1,11 @@
+# 本项目已被@[watermellye](https://github.com/watermellye)重写
+
+引流：https://github.com/watermellye/money_exchange_rate
+
+（以下原readme）
+
 # 货币转换
+
 一个适用于HoshinoBot的汇率转换插件
 
 ### ★ 如果你喜欢的话，请给仓库点一个star支持一下23333 ★
@@ -36,6 +43,3 @@ git clone https://github.com/SonderXiaoming/money_exchange_rate
 ## 彩蛋
 
 内置环奈币汇率（我机器人是环奈）
-
-
-
